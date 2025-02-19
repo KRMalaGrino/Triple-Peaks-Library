@@ -1,5 +1,5 @@
-## Triple-Peaks-Library
+## Triple_Peaks_Library
 
 
 
-https://KRMalaGrino.github.io/Triple-Peaks-Library/
+https://KRMalaGrino.github.io/Triple_Peaks_Library/
