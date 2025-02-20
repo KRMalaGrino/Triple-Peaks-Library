@@ -9,7 +9,7 @@ The official website of "Triple Peaks Library" . My first official project as a 
 
 ## Plan on improving the project
 
----------------------
+Plans to add java script in near future to bring website to life .
 
 ## Technologies & techniques
 
@@ -17,7 +17,7 @@ We created this website using a reference from TripleTen's website to replicate 
 
 ## Pictures, GIFs, & screenshots
 
----------------------
+https://drive.google.com/file/d/1SkipuVZo3eOPsq591j9ychgnPmqIyO63/view?usp=drive_link
 
 ## Deployment
 
